@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.TicTacToe", "Task2.TicTacToe\Task2.TicTacToe.csproj", "{53BEE54E-38EF-4740-B90D-5DE8BFE9C427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.PhonebookApp", "Task3.PhonebookApp\Task3.PhonebookApp.csproj", "{AE910833-704C-4C6B-B820-6B2A4FA10595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.EmployeeManager", "Task4.EmployeeManager\Task4.EmployeeManager.csproj", "{4E5E3E93-B90E-4FF3-91FA-DDE30DBAF658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BEE54E-38EF-4740-B90D-5DE8BFE9C427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BEE54E-38EF-4740-B90D-5DE8BFE9C427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BEE54E-38EF-4740-B90D-5DE8BFE9C427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BEE54E-38EF-4740-B90D-5DE8BFE9C427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE910833-704C-4C6B-B820-6B2A4FA10595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE910833-704C-4C6B-B820-6B2A4FA10595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE910833-704C-4C6B-B820-6B2A4FA10595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE910833-704C-4C6B-B820-6B2A4FA10595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5E3E93-B90E-4FF3-91FA-DDE30DBAF658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5E3E93-B90E-4FF3-91FA-DDE30DBAF658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5E3E93-B90E-4FF3-91FA-DDE30DBAF658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5E3E93-B90E-4FF3-91FA-DDE30DBAF658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
